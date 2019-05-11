@@ -33,13 +33,13 @@ There are 3 files
    - master.html
  - run.py
 
--data
- -disaster_categories.csv
- -disaster_messages.csv
- -process_data.py
+- data
+ - disaster_categories.csv
+ - disaster_messages.csv
+ - process_data.py
 
--models
- -train_classifier.py
+- models
+ - train_classifier.py
 
 app folder contains files to show results of analyzes
 data folder conatins files with datasets and the cleaing and joining part of it
