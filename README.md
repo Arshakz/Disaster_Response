@@ -28,10 +28,10 @@ Dataset was provided by Figure8. Dataset includes messages and message categorie
 
 There are 3 files
 - app
- -- templates
-   --- go.html
-   --- master.html
- -- run.py
+ - templates
+   - go.html
+   - master.html
+ - run.py
 
 -data
  -disaster_categories.csv
