@@ -28,18 +28,18 @@ Dataset was provided by Figure8. Dataset includes messages and message categorie
 
 There are 3 files
 -app
---templates
----go.html
----master.html
---run.py
+ -templates
+  -go.html
+   -master.html
+ -run.py
 
 -data
---disaster_categories.csv
---disaster_messages.csv
---process_data.py
+ -disaster_categories.csv
+ -disaster_messages.csv
+ -process_data.py
 
 -models
---train_classifier.py
+ -train_classifier.py
 
 app folder contains files to show results of analyzes
 data folder conatins files with datasets and the cleaing and joining part of it
